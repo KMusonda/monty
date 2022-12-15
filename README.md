@@ -51,6 +51,6 @@ julien@ubuntu:~/monty$
 ## Usage
 ```monty filename```
 
-## AUTHORS<br/>
-Umar Faruq Adam <umarfaruqadam03@gmail.com>
-Nwankwo Guzorochi Confidence <guzorochinwankwo@gmail.com>
+## AUTHORS
+kanyanta musonda <kanyantamusonda72@gmail.com>
+
